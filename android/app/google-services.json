@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935643881396",
+    "project_id": "devoida-app",
+    "storage_bucket": "devoida-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935643881396:android:c7fa03da5b528fb47a9ce1",
+        "android_client_info": {
+          "package_name": "com.devoida.project_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg__GEX4PCE2CmvlyjZ254vda6JF9KA8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
