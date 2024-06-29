@@ -13,28 +13,28 @@
   <img src="screens/img8.png" width="250" title="hover text">
   <img src="screens/img9.png" width="250" title="hover text">
 </p>
-
+```
 ## Project Structure
 ## 1 - the project is implemented in flutter cross platform
 ## 2 - the code is structured in clean code using mvvm pattern
 ## 3 - the state management in the app is done by using Cubit state management
 ## 4 - project files as the following
-###    - core
-###    - features
-###      -- auth
-###         --- cubit
-###         --- model
-###         --- repository
-###         --- view
-###      -- home
-###      -- project
-###      -- tasks
-###      -- .
-###      -- .
-###    - service
-###      -- di
-###      -- local
-
+       - core
+       - features
+         -- auth
+            --- cubit
+            --- model
+            --- repository
+            --- view
+         -- home
+         -- project
+         -- tasks
+         -- .
+         -- .
+       - service
+         -- di
+         -- local
+```
 ## Database With Pros and Cons
 
 1 - SQLite
